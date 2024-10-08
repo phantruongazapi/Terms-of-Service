@@ -1,0 +1,85 @@
+## **Điều khoản Dịch vụ Bot Discord (Tiếng Việt)**
+
+### 1. **Giới thiệu**
+Chào mừng bạn đến với bot Discord của chúng tôi! Bot này là một công cụ giúp người dùng tham gia các trò chơi mini và sử dụng các lệnh liên quan đến tài chính ảo, hoàn toàn miễn phí và không yêu cầu bất kỳ khoản thanh toán nào. Việc sử dụng bot đồng nghĩa với việc bạn đồng ý với các điều khoản và điều kiện được nêu dưới đây.
+
+### 2. **Lệnh cho phép sử dụng**
+Người dùng có quyền sử dụng các lệnh sau đây:
+
+- **`!taixiu [số tiền] [tài/xỉu]`**: Lệnh này cho phép người dùng đặt cược tài/xỉu với số tiền họ có.
+  
+- **`!give [người chơi] [số tiền]`**: Lệnh này cho phép người dùng chuyển số tiền ảo cho người chơi khác.
+
+- **`!checkmoney`**: Lệnh này hiển thị số dư tiền của người dùng.
+
+- **`!balance [người chơi]`**: Lệnh này cho phép người dùng kiểm tra số dư của người chơi khác.
+
+- **`!all_balances`**: Lệnh này hiển thị số dư của tất cả người chơi hiện có.
+
+Những lệnh này nhằm mục đích giúp người dùng tham gia các trò chơi mini hoặc kiểm tra số dư ảo. Bot này được cung cấp miễn phí cho mục đích giải trí và không có yêu cầu về phí dịch vụ.
+
+### 3. **Lệnh hạn chế**
+Có một số lệnh chỉ được dành riêng cho người sở hữu bot và không được phép sử dụng bởi người dùng thông thường:
+
+- **`!setmoney`**: Lệnh này chỉ có quyền sử dụng bởi chủ sở hữu bot. Người dùng không được phép thay đổi hoặc can thiệp vào số tiền của mình hoặc người khác thông qua lệnh này.
+
+### 4. **Quyền sở hữu và bản quyền**
+Bot Discord này và tất cả nội dung của nó thuộc sở hữu của **Phan Trường**. Bạn không có quyền sao chép, thay đổi hoặc phân phối mã nguồn của bot mà không có sự cho phép của chủ sở hữu. Bot có thể sử dụng các công cụ hoặc thư viện của bên thứ ba, và các quyền liên quan đến chúng sẽ thuộc về các chủ sở hữu của những công cụ đó.
+
+### 5. **Chính sách bảo mật**
+Bot này không thu thập thông tin cá nhân từ người dùng. Các dữ liệu được xử lý thông qua bot chỉ bao gồm những tương tác cơ bản (như tin nhắn, lệnh) và không được sử dụng cho bất kỳ mục đích nào ngoài việc vận hành bot.
+
+### 6. **Trách nhiệm pháp lý**
+Người phát triển bot không chịu trách nhiệm cho bất kỳ thiệt hại nào phát sinh từ việc sử dụng bot. Bot được cung cấp "như hiện có" và không có đảm bảo nào về tính chính xác, đáng tin cậy hoặc tính bảo mật. Người dùng tự chịu trách nhiệm khi tham gia và sử dụng các lệnh của bot.
+
+### 7. **Chấm dứt dịch vụ**
+Chúng tôi có quyền ngừng cung cấp dịch vụ hoặc hạn chế quyền truy cập của người dùng bất kỳ lúc nào mà không cần thông báo trước nếu phát hiện bất kỳ hành vi vi phạm nào đối với Điều khoản dịch vụ này.
+
+### 8. **Thay đổi điều khoản**
+Chúng tôi có quyền thay đổi Điều khoản dịch vụ bất kỳ lúc nào. Người dùng nên kiểm tra lại điều khoản này thường xuyên để đảm bảo họ hiểu rõ các quy định mới nhất. Việc tiếp tục sử dụng bot sau khi có thay đổi đồng nghĩa với việc bạn đồng ý với các điều khoản sửa đổi.
+
+### 9. **Luật áp dụng**
+Điều khoản này sẽ tuân theo luật pháp của [Quốc gia], và bất kỳ tranh chấp nào liên quan sẽ được giải quyết theo quy định pháp luật của quốc gia này.
+
+## **Discord Bot Terms of Service (English Version)**
+
+### 1. **Introduction**
+Welcome to our Discord bot! This bot is a tool that allows users to participate in mini-games and use commands related to virtual finance, entirely free of charge and with no payment required. By using the bot, you agree to the terms and conditions outlined below.
+
+### 2. **Allowed Commands**
+Users have the right to use the following commands:
+
+- **`!taixiu [amount] [tai/xiu]`**: This command allows users to bet on Tai or Xiu with their available money.
+
+- **`!give [player] [amount]`**: This command allows users to transfer virtual money to other players.
+
+- **`!checkmoney`**: This command shows the user's current balance.
+
+- **`!balance [player]`**: This command allows users to check another player's balance.
+
+- **`!all_balances`**: This command shows the balance of all players.
+
+These commands are designed to help users participate in mini-games or check virtual balances. The bot is provided free of charge for entertainment purposes, with no service fees required.
+
+### 3. **Restricted Commands**
+Certain commands are reserved solely for the bot owner and are not allowed for regular users:
+
+- **`!setmoney`**: This command can only be used by the bot owner. Users are not allowed to alter or manipulate their own or others' money using this command.
+
+### 4. **Ownership and Copyright**
+This Discord bot and all of its content are owned by **Phan Trường**. You do not have the right to copy, modify, or distribute the bot's source code without the owner's permission. The bot may use third-party tools or libraries, and any rights related to those tools belong to their respective owners.
+
+### 5. **Privacy Policy**
+This bot does not collect personal information from users. The data processed by the bot includes only basic interactions (such as messages and commands) and is not used for any purpose other than operating the bot.
+
+### 6. **Liability**
+The bot developer is not responsible for any damage arising from the use of the bot. The bot is provided "as-is," with no guarantees of accuracy, reliability, or security. Users are responsible for their own actions when using the bot's commands.
+
+### 7. **Service Termination**
+We reserve the right to terminate or restrict user access at any time without prior notice if any violation of these terms is detected.
+
+### 8. **Terms Modification**
+We reserve the right to modify the Terms of Service at any time. Users should check this document regularly to ensure they understand the latest provisions. Continued use of the bot after changes implies acceptance of the revised terms.
+
+### 9. **Governing Law**
+These terms shall be governed by the laws of [Country], and any disputes arising will be resolved under the jurisdiction of the courts of this country.
