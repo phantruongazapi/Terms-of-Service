@@ -1,85 +1,26 @@
-## **Điều khoản Dịch vụ Bot Discord (Tiếng Việt)**
+**Điều Khoản Sử Dụng Bot Discord**
 
-### 1. **Giới thiệu**
-Chào mừng bạn đến với bot Discord của chúng tôi! Bot này là một công cụ giúp người dùng tham gia các trò chơi mini và sử dụng các lệnh liên quan đến tài chính ảo, hoàn toàn miễn phí và không yêu cầu bất kỳ khoản thanh toán nào. Việc sử dụng bot đồng nghĩa với việc bạn đồng ý với các điều khoản và điều kiện được nêu dưới đây.
+Chào mừng bạn đã sử dụng bot Discord của chúng tôi! Việc bạn sử dụng bot đồng nghĩa với việc bạn đồng ý tuân thủ các điều khoản dưới đây. Vui lòng đọc kỹ để hiểu rõ quyền và trách nhiệm của mình khi tương tác với bot.
 
-### 2. **Lệnh cho phép sử dụng**
-Người dùng có quyền sử dụng các lệnh sau đây:
+**1. Điều kiện sử dụng**  
+Bạn phải tuân thủ các quy định của Discord khi sử dụng bot này. Điều đó bao gồm các quy định về việc không phát tán nội dung độc hại, không quấy rối người dùng khác, không lạm dụng bot để thực hiện các hành vi vi phạm pháp luật, và không can thiệp vào hoạt động của bot.
 
-- **`!taixiu [số tiền] [tài/xỉu]`**: Lệnh này cho phép người dùng đặt cược tài/xỉu với số tiền họ có.
-  
-- **`!give [người chơi] [số tiền]`**: Lệnh này cho phép người dùng chuyển số tiền ảo cho người chơi khác.
+**2. Quyền truy cập**  
+Khi bạn sử dụng các lệnh của bot, bot có thể yêu cầu quyền truy cập vào một số thông tin trên máy chủ như tên người dùng, ID kênh, tin nhắn, v.v. Những thông tin này chỉ được sử dụng để cung cấp các tính năng mà bot hỗ trợ và không được chia sẻ ra bên ngoài hệ thống.
 
-- **`!checkmoney`**: Lệnh này hiển thị số dư tiền của người dùng.
+**3. Hạn chế trách nhiệm**  
+Chúng tôi không chịu trách nhiệm đối với bất kỳ sự cố nào xảy ra do việc sử dụng bot, bao gồm nhưng không giới hạn ở lỗi hoạt động, mất mát dữ liệu hoặc thiệt hại phát sinh từ việc sử dụng bot. Việc bot ngừng hoạt động hoặc ngừng cung cấp dịch vụ có thể xảy ra bất kỳ lúc nào mà không cần thông báo trước.
 
-- **`!balance [người chơi]`**: Lệnh này cho phép người dùng kiểm tra số dư của người chơi khác.
+**4. Cập nhật và sửa đổi**  
+Bot có thể được cập nhật hoặc thay đổi các tính năng mà không cần thông báo trước. Điều khoản sử dụng cũng có thể thay đổi tùy theo tình hình thực tế. Chúng tôi khuyến khích người dùng kiểm tra thường xuyên để nắm bắt các thay đổi mới nhất.
 
-- **`!all_balances`**: Lệnh này hiển thị số dư của tất cả người chơi hiện có.
+**5. Sử dụng hợp pháp**  
+Bạn cam kết không sử dụng bot vào các mục đích vi phạm pháp luật, gian lận, hoặc lừa đảo. Bot chỉ được sử dụng để phục vụ các mục đích giải trí, hỗ trợ quản lý server hoặc cung cấp các tiện ích hữu ích theo chức năng được thiết kế.
 
-Những lệnh này nhằm mục đích giúp người dùng tham gia các trò chơi mini hoặc kiểm tra số dư ảo. Bot này được cung cấp miễn phí cho mục đích giải trí và không có yêu cầu về phí dịch vụ.
+**6. Quyền tạm ngừng hoặc chấm dứt**  
+Chúng tôi có quyền tạm ngừng hoặc chấm dứt quyền sử dụng bot của bất kỳ người dùng nào nếu phát hiện vi phạm điều khoản sử dụng hoặc có hành vi gây ảnh hưởng xấu đến hoạt động của bot và các thành viên khác.
 
-### 3. **Lệnh hạn chế**
-Có một số lệnh chỉ được dành riêng cho người sở hữu bot và không được phép sử dụng bởi người dùng thông thường:
+**7. Hỗ trợ và phản hồi**  
+Nếu bạn gặp sự cố hoặc có phản hồi về bot, hãy liên hệ với đội ngũ phát triển để được hỗ trợ. Chúng tôi hoan nghênh mọi phản hồi để cải thiện dịch vụ.
 
-- **`!setmoney`**: Lệnh này chỉ có quyền sử dụng bởi chủ sở hữu bot. Người dùng không được phép thay đổi hoặc can thiệp vào số tiền của mình hoặc người khác thông qua lệnh này.
-
-### 4. **Quyền sở hữu và bản quyền**
-Bot Discord này và tất cả nội dung của nó thuộc sở hữu của **Phan Trường**. Bạn không có quyền sao chép, thay đổi hoặc phân phối mã nguồn của bot mà không có sự cho phép của chủ sở hữu. Bot có thể sử dụng các công cụ hoặc thư viện của bên thứ ba, và các quyền liên quan đến chúng sẽ thuộc về các chủ sở hữu của những công cụ đó.
-
-### 5. **Chính sách bảo mật**
-Bot này không thu thập thông tin cá nhân từ người dùng. Các dữ liệu được xử lý thông qua bot chỉ bao gồm những tương tác cơ bản (như tin nhắn, lệnh) và không được sử dụng cho bất kỳ mục đích nào ngoài việc vận hành bot.
-
-### 6. **Trách nhiệm pháp lý**
-Người phát triển bot không chịu trách nhiệm cho bất kỳ thiệt hại nào phát sinh từ việc sử dụng bot. Bot được cung cấp "như hiện có" và không có đảm bảo nào về tính chính xác, đáng tin cậy hoặc tính bảo mật. Người dùng tự chịu trách nhiệm khi tham gia và sử dụng các lệnh của bot.
-
-### 7. **Chấm dứt dịch vụ**
-Chúng tôi có quyền ngừng cung cấp dịch vụ hoặc hạn chế quyền truy cập của người dùng bất kỳ lúc nào mà không cần thông báo trước nếu phát hiện bất kỳ hành vi vi phạm nào đối với Điều khoản dịch vụ này.
-
-### 8. **Thay đổi điều khoản**
-Chúng tôi có quyền thay đổi Điều khoản dịch vụ bất kỳ lúc nào. Người dùng nên kiểm tra lại điều khoản này thường xuyên để đảm bảo họ hiểu rõ các quy định mới nhất. Việc tiếp tục sử dụng bot sau khi có thay đổi đồng nghĩa với việc bạn đồng ý với các điều khoản sửa đổi.
-
-### 9. **Luật áp dụng**
-Điều khoản này sẽ tuân theo luật pháp của [Quốc gia], và bất kỳ tranh chấp nào liên quan sẽ được giải quyết theo quy định pháp luật của quốc gia này.
-
-## **Discord Bot Terms of Service (English Version)**
-
-### 1. **Introduction**
-Welcome to our Discord bot! This bot is a tool that allows users to participate in mini-games and use commands related to virtual finance, entirely free of charge and with no payment required. By using the bot, you agree to the terms and conditions outlined below.
-
-### 2. **Allowed Commands**
-Users have the right to use the following commands:
-
-- **`!taixiu [amount] [tai/xiu]`**: This command allows users to bet on Tai or Xiu with their available money.
-
-- **`!give [player] [amount]`**: This command allows users to transfer virtual money to other players.
-
-- **`!checkmoney`**: This command shows the user's current balance.
-
-- **`!balance [player]`**: This command allows users to check another player's balance.
-
-- **`!all_balances`**: This command shows the balance of all players.
-
-These commands are designed to help users participate in mini-games or check virtual balances. The bot is provided free of charge for entertainment purposes, with no service fees required.
-
-### 3. **Restricted Commands**
-Certain commands are reserved solely for the bot owner and are not allowed for regular users:
-
-- **`!setmoney`**: This command can only be used by the bot owner. Users are not allowed to alter or manipulate their own or others' money using this command.
-
-### 4. **Ownership and Copyright**
-This Discord bot and all of its content are owned by **Phan Trường**. You do not have the right to copy, modify, or distribute the bot's source code without the owner's permission. The bot may use third-party tools or libraries, and any rights related to those tools belong to their respective owners.
-
-### 5. **Privacy Policy**
-This bot does not collect personal information from users. The data processed by the bot includes only basic interactions (such as messages and commands) and is not used for any purpose other than operating the bot.
-
-### 6. **Liability**
-The bot developer is not responsible for any damage arising from the use of the bot. The bot is provided "as-is," with no guarantees of accuracy, reliability, or security. Users are responsible for their own actions when using the bot's commands.
-
-### 7. **Service Termination**
-We reserve the right to terminate or restrict user access at any time without prior notice if any violation of these terms is detected.
-
-### 8. **Terms Modification**
-We reserve the right to modify the Terms of Service at any time. Users should check this document regularly to ensure they understand the latest provisions. Continued use of the bot after changes implies acceptance of the revised terms.
-
-### 9. **Governing Law**
-These terms shall be governed by the laws of [Country], and any disputes arising will be resolved under the jurisdiction of the courts of this country.
+Việc tiếp tục sử dụng bot sau khi đọc các điều khoản này đồng nghĩa với việc bạn đồng ý và chấp nhận tất cả các điều khoản nêu trên.
